@@ -5,5 +5,5 @@ import (
 )
 
 func WhenGrownUp(str string) {
-	fmt.Println("BIG BIG BARK!!!")
+	fmt.Println(str)
 }
